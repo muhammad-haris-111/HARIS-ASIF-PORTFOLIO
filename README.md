@@ -1,6 +1,6 @@
 # Project Name
 
-SH.HARIS ASIF (PORTFOLIO)
+Muhammad Haris (PORTFOLIO)
 
 ## Overview
 
